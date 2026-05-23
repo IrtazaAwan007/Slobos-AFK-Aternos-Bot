@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": PARADiSE_SMP777.aternos.me:63355,
+    "ip": "PARADiSE_SMP777.aternos.me:63355",
     "port": 63355,
     "version": "",
     "try-creative": false
