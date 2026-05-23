@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": PARADiSE_SMP777.aternos.me:63355,
+    "port": 63355,
     "version": "",
     "try-creative": false
   },
